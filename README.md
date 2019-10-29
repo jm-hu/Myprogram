@@ -1,1 +1,2 @@
 # Myprogram
+echo hello world!
