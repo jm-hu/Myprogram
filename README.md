@@ -1,2 +1,2 @@
-# Myprogram
+# Test
 echo hello world!
