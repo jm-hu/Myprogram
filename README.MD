@@ -1,4 +1,4 @@
-# SyntenyPlot
+# Test
 
 	usage: just for test
 
