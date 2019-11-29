@@ -1,8 +1,8 @@
 1. Explain BAM FLAG value： 143
 
     答：PAIRED, PROPER_PAIR, UNMAP, MUNMAP, READ2
-	该 read 是成对的 paired reads 中的第二条，paired reads 中每个都正确比对到参考序列上，该 read 及与该 read 成对的 matepair read 没有比对到参考序列上
-	##  PROPER_PAIR 与 UNMAP, MUNMAP 应该是冲突的吧？怎么可以既比对上了，又没有比对上呢？
+该 read 是成对的 paired reads 中的第二条，paired reads 中每个都正确比对到参考序列上，该 read 及与该 read 成对的 matepair read 没有比对到参考序列上
+注：ROPER_PAIR 与 UNMAP, MUNMAP 应该是冲突的吧？怎么可以既比对上了，又没有比对上呢？
 
 
 2. Explain BAM FLAG value： 99
